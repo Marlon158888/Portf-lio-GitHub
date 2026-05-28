@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3400&pause=1600&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Sou+um+desenvolvedor+em+evolucao.;Gosto+de+criar+sites%2C+sistemas+e+experiencias+digitais.;Transformo+ideias+em+projetos+reais.;Estou+evoluindo+em+Front-end%2C+Back-end+e+GitHub.;Cada+erro+e+XP.+Cada+projeto+e+uma+nova+fase.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3400&pause=1600&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Sou+um+desenvolvedor+em+evolucao.;Gosto+de+criar+sites%2C+sistemas%2C+jogos+e+experiencias+digitais.;Transformo+ideias+em+projetos+reais.;Estou+evoluindo+em+Front-end%2C+Back-end+e+GitHub.;Cada+erro+e+XP.+Cada+projeto+e+uma+nova+fase.)](https://git.io/typing-svg)
 
 </div>
 
@@ -107,6 +107,14 @@
 
 </div>
 
+### 🌆 Jogo de Mundo Aberto Futurista
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3600&pause=1700&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Jogo+de+mundo+aberto+com+pegada+GTA+e+Cyberpunk.;Cidade+futurista%2C+exploracao%2C+missoes+e+liberdade.;Projeto+com+foco+em+acao%2C+ambiente+urbano+e+imersao.)](https://git.io/typing-svg)
+
+</div>
+
 ### 🍕 Site de Pizzaria
 
 <div align="center">
@@ -141,7 +149,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=1600&color=FFFFFF&center=true&vCenter=true&width=1000&lines=%5BOK%5D+Criar+projetos+reais+para+portfolio;%5BOK%5D+Melhorar+design+e+responsividade;%5BOK%5D+Evoluir+no+Front-end;%5BOK%5D+Praticar+Python;%5BNEXT%5D+Conseguir+primeira+oportunidade+dev;%5BNEXT%5D+Lancar+um+projeto+proprio+completo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=1600&color=FFFFFF&center=true&vCenter=true&width=1000&lines=%5BOK%5D+Criar+projetos+reais+para+portfolio;%5BOK%5D+Melhorar+design+e+responsividade;%5BOK%5D+Desenvolver+site%2C+sistema+e+jogo;%5BOK%5D+Praticar+Python+e+JavaScript;%5BNEXT%5D+Conseguir+primeira+oportunidade+dev;%5BNEXT%5D+Lancar+um+projeto+proprio+completo)](https://git.io/typing-svg)
 
 </div>
 
@@ -169,52 +177,7 @@
 
 <div align="center">
 
-<a href="https://github.com/marlon3d">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marlon3d&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&icon_color=ff0055&cache_seconds=86400" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/marlon3d">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon3d&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&cache_seconds=86400" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=1600&color=FFFFFF&center=true&vCenter=true&width=1000&lines=GitHub%3A+marlon3d;Projetos+publicos+em+evolucao;Estudando%2C+testando+e+subindo+de+level;Portfolio+em+constante+melhoria)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2600&pause=1400&color=FF0055&center=true&vCenter=true&width=900&lines=%F0%9F%94%A5+SEQUENCIA+DE+EVOLUCAO)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/marlon3d">
-  <img src="https://streak-stats.demolab.com?user=marlon3d&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF0055&fire=FF0055&currStreakLabel=00F5FF" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Modo-Dev_Arcade-00f5ff?style=for-the-badge&logo=gnubash&logoColor=black" />
-<img src="https://img.shields.io/badge/XP-Code_%2B_Projects-ff0055?style=for-the-badge&logo=git&logoColor=white" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=1600&color=FFFFFF&center=true&vCenter=true&width=1000&lines=GitHub%3A+marlon3d;Projetos+publicos+em+evolucao;Sites%2C+sistemas+e+jogos+no+portfolio;Estudando%2C+testando+e+subindo+de+level)](https://git.io/typing-svg)
 
 </div>
 
