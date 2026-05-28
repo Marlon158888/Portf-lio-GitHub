@@ -1,12 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050505,35:141414,70:2b0057,100:ff004c&text=MARLON%203D&fontColor=ffffff&fontSize=55&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:050505,35:141414,70:2b0057,100:ff004c&section=header"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1300&pause=500&color=00F5FF&center=true&vCenter=true&width=1000&lines=%3E+INSERT+COIN...;%3E+PLAYER+1+READY...;%3E+LOADING+MARLON3D+PROFILE...;%3E+WELCOME+TO+MY+DEV+ARCADE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=36&duration=700&pause=300&color=00F5FF&center=true&vCenter=true&width=1100&height=90&lines=%E2%96%88+M+A+R+L+O+N+%E2%96%88+3+D+%E2%96%88;M+A+R+L+O+N+3+D;PIXEL+PLAYER+LOADING...;MARLON+3D)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=900&pause=400&color=FF0055&center=true&vCenter=true&width=1100&lines=%3E+BOOTING+PIXEL+SYSTEM...;%3E+LOADING+PLAYER+DATA...;%3E+RENDERING+MARLON+3D...;%3E+ARCADE+MODE+ACTIVATED...;%3E+PLAYER+1+READY)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1200&pause=500&color=00FF88&center=true&vCenter=true&width=1000&lines=%E2%96%8C%E2%94%82%E2%96%88%E2%95%91%E2%96%8C%E2%95%91%E2%96%8C%E2%95%91+PIXEL+ENGINE+ONLINE;%E2%96%8C%E2%94%82%E2%96%88%E2%95%91%E2%96%8C%E2%95%91%E2%96%8C%E2%95%91+RETRO+DEV+MODE;%E2%96%8C%E2%94%82%E2%96%88%E2%95%91%E2%96%8C%E2%95%91%E2%96%8C%E2%95%91+WELCOME+TO+MY+ARCADE)](https://git.io/typing-svg)
 
 </div>
 
