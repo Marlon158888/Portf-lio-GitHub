@@ -6,28 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1300&pause=500&color=00F5FF&center=true&vCenter=true&width=1000&lines=%3E+INSERT+COIN...;%3E+PLAYER+1+READY...;%3E+LOADING+MARLON3D+PROFILE...;%3E+WELCOME+TO+MY+DEV+ARCADE)](https://git.io/typing-svg)
-
-</div>
-
-```txt
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║             ███╗   ███╗ █████╗ ██████╗              ║
-║             ████╗ ████║██╔══██╗██╔══██╗             ║
-║             ██╔████╔██║███████║██████╔╝             ║
-║             ██║╚██╔╝██║██╔══██║██╔══██╗             ║
-║             ██║ ╚═╝ ██║██║  ██║██║  ██║             ║
-║             ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝             ║
-║                                                      ║
-║                 MARLON 3D | DEV MODE                ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1600&pause=700&color=FF0055&center=true&vCenter=true&width=1000&lines=RETRO+GAMER+PORTFOLIO;PIXEL+STYLE+%7C+CODE+%7C+CREATIVITY;BUILDING+PROJECTS+AND+LEVELING+UP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1300&pause=500&color=00F5FF&center=true&vCenter=true&width=1000&lines=%3E+INSERT+COIN...;%3E+PLAYER+1+READY...;%3E+LOADING+MARLON3D+PROFILE...;%3E+WELCOME+TO+MY+DEV+ARCADE)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,23 +18,9 @@
 
 </div>
 
-```txt
-╔══════════════════════════════════════════════════════╗
-║                    PLAYER PROFILE                   ║
-╠══════════════════════════════════════════════════════╣
-║ Nome: Marlon                                        ║
-║ Username: marlon3d                                  ║
-║ Classe: Desenvolvedor Full Stack em evolução        ║
-║ Rank: Junior Developer                              ║
-║ Estilo: Criativo, persistente e focado              ║
-║ Mundo atual: Desenvolvimento Web                    ║
-║ Missão principal: Criar projetos reais e evoluir    ║
-╚══════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=700&color=00F5FF&center=true&vCenter=true&width=1000&lines=marlon3d%40github%3A~%24+iniciando+portfolio.exe;marlon3d%40github%3A~%24+carregando+skills...;marlon3d%40github%3A~%24+carregando+projetos...;marlon3d%40github%3A~%24+carregando+evolucao...;marlon3d%40github%3A~%24+status%3A+PLAYER+1+READY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=600&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Nome%3A+Marlon;Username%3A+marlon3d;Classe%3A+Desenvolvedor+Full+Stack+em+evolucao;Rank%3A+Junior+Developer;Missao%3A+criar+projetos+reais+e+evoluir)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,24 +34,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=800&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Sou+um+desenvolvedor+em+evolucao.;Gosto+de+criar+sites%2C+sistemas+e+experiencias+digitais.;Meu+foco+e+transformar+ideias+em+projetos+reais.;Estou+sempre+aprendendo%2C+testando+e+melhorando.;Cada+projeto+e+uma+fase.+Cada+erro+e+XP.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Sou+um+desenvolvedor+em+evolucao.;Gosto+de+criar+sites%2C+sistemas+e+experiencias+digitais.;Transformo+ideias+em+projetos+reais.;Estou+evoluindo+em+Front-end%2C+Back-end+e+GitHub.;Cada+erro+e+XP.+Cada+projeto+e+uma+nova+fase.)](https://git.io/typing-svg)
 
 </div>
-
-```txt
-╔══════════════════════════════════════════════════════╗
-║                    SOBRE O PLAYER                   ║
-╠══════════════════════════════════════════════════════╣
-║ Sou apaixonado por tecnologia, criação de sites,    ║
-║ sistemas, interfaces bonitas e projetos funcionais. ║
-║                                                      ║
-║ Gosto de construir ideias do zero, testar, melhorar,║
-║ quebrar a cabeça e evoluir em cada linha de código. ║
-║                                                      ║
-║ Meu objetivo é crescer como desenvolvedor Full Stack║
-║ e criar projetos cada vez mais completos e reais.   ║
-╚══════════════════════════════════════════════════════╝
-```
 
 ---
 
@@ -96,19 +46,11 @@
 
 </div>
 
-```txt
-╔══════════════════════════════════════════════════════╗
-║                    STATUS DO PLAYER                 ║
-╠══════════════════════════════════════════════════════╣
-║ Criatividade        █████████░  90%                 ║
-║ Persistência        ██████████  100%                ║
-║ Vontade de evoluir  ██████████  100%                ║
-║ Front-end           ████████░░  80%                 ║
-║ Back-end            ██████░░░░  60%                 ║
-║ Projetos reais      ████████░░  80%                 ║
-║ Foco                █████████░  90%                 ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1400&pause=500&color=00F5FF&center=true&vCenter=true&width=1000&lines=Criatividade+%3A+alta;Persistencia+%3A+maxima;Foco+%3A+em+evolucao;Mentalidade+%3A+aprender+e+construir;Objetivo+%3A+primeira+oportunidade+dev)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -124,18 +66,7 @@
 
 </div>
 
-```txt
-╔══════════════════════════════════════════════════════╗
-║                  SKILL TREE                         ║
-╠══════════════════════════════════════════════════════╣
-║ HTML        █████████░  90%                         ║
-║ CSS         ████████░░  80%                         ║
-║ JavaScript  ███████░░░  70%                         ║
-║ Python      ██████░░░░  60%                         ║
-║ Git/GitHub  ███████░░░  70%                         ║
-║ VS Code     ████████░░  80%                         ║
-╚══════════════════════════════════════════════════════╝
-```
+<br>
 
 <div align="center">
 
@@ -156,44 +87,21 @@
 
 </div>
 
-### 🥇 EvoRank — Plataforma Web de Evolução Pessoal
+### 🥇 EvoRank
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1600&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Sistema+de+habitos%2C+treinos%2C+nutricao+e+evolucao.;Ranking%2C+medalhas%2C+perfil+e+comunidade.;Um+projeto+com+pegada+gamificada+e+futurista.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1600&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Plataforma+web+de+habitos%2C+treinos+e+evolucao.;Sistema+com+ranking%2C+medalhas%2C+perfil+e+comunidade.;Projeto+com+pegada+gamificada%2C+dark+e+futurista.)](https://git.io/typing-svg)
 
 </div>
-
-```txt
-╔══════════════════════════════════════════════════════╗
-║ Projeto: EvoRank                                    ║
-║ Tipo: Web App                                       ║
-║ Status: Em desenvolvimento                          ║
-║ Tema: Dark, futurista e gamificado                  ║
-║ Recursos: Ranking, medalhas, perfil e comunidade    ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
 
 ### 🍕 Site de Pizzaria
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1600&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Site+comercial+para+pizzaria.;Cardapio%2C+carrinho%2C+pedidos+e+painel+admin.;Projeto+feito+para+funcionar+no+mundo+real.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1600&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Site+comercial+para+pizzaria.;Cardapio%2C+carrinho%2C+pedidos+e+painel+admin.;Projeto+pensado+para+funcionar+no+mundo+real.)](https://git.io/typing-svg)
 
 </div>
-
-```txt
-╔══════════════════════════════════════════════════════╗
-║ Projeto: Site de Pizzaria                           ║
-║ Tipo: Site comercial                                ║
-║ Status: Protótipo funcional                         ║
-║ Recursos: Carrinho, pedidos e painel administrativo ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
 
 ### 🛒 Loja Online
 
@@ -203,17 +111,6 @@
 
 </div>
 
-```txt
-╔══════════════════════════════════════════════════════╗
-║ Projeto: Loja Online                                ║
-║ Tipo: E-commerce                                    ║
-║ Status: Em evolução                                 ║
-║ Recursos: Produtos, categorias, carrinho e conta    ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
 ### 💈 Site para Barbearia
 
 <div align="center">
@@ -221,15 +118,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1600&pause=700&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Landing+page+moderna+para+barbearia.;Apresentacao+de+servicos+e+chamada+para+clientes.;Visual+comercial%2C+bonito+e+responsivo.)](https://git.io/typing-svg)
 
 </div>
-
-```txt
-╔══════════════════════════════════════════════════════╗
-║ Projeto: Site de Barbearia                          ║
-║ Tipo: Landing Page comercial                        ║
-║ Status: Protótipo                                   ║
-║ Recursos: Serviços, visual moderno e CTA            ║
-╚══════════════════════════════════════════════════════╝
-```
 
 ---
 
@@ -239,20 +127,11 @@
 
 </div>
 
-```txt
-╔══════════════════════════════════════════════════════╗
-║                    QUEST LOG                        ║
-╠══════════════════════════════════════════════════════╣
-║ [✓] Criar projetos reais para portfólio             ║
-║ [✓] Melhorar design e responsividade                ║
-║ [✓] Evoluir no Front-end                            ║
-║ [✓] Aprender mais JavaScript                        ║
-║ [✓] Praticar Python                                 ║
-║ [ ] Conseguir primeira oportunidade como dev        ║
-║ [ ] Lançar um projeto próprio completo              ║
-║ [ ] Evoluir para Full Stack profissional            ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1400&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=%5BOK%5D+Criar+projetos+reais+para+portfolio;%5BOK%5D+Melhorar+design+e+responsividade;%5BOK%5D+Evoluir+no+Front-end;%5BOK%5D+Praticar+Python;%5BNEXT%5D+Conseguir+primeira+oportunidade+dev;%5BNEXT%5D+Lancar+um+projeto+proprio+completo)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -288,34 +167,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1500&pause=600&color=FFD700&center=true&vCenter=true&width=900&lines=%F0%9F%8F%85+TROFEUS+DESBLOQUEADOS)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=marlon3d&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
-
-</div>
-
----
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1500&pause=600&color=00FF88&center=true&vCenter=true&width=900&lines=%F0%9F%91%BE+BOSS+ATUAL)](https://git.io/typing-svg)
 
 </div>
 
-```txt
-╔══════════════════════════════════════════════════════╗
-║ BOSS: PRIMEIRA OPORTUNIDADE DEV                     ║
-╠══════════════════════════════════════════════════════╣
-║ Dificuldade: Alta                                    ║
-║ Fraqueza: Portfólio forte + prática diária           ║
-║ Estratégia: Criar projetos, estudar e não desistir   ║
-║ Recompensa: XP real + carreira em tecnologia         ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1500&pause=600&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Boss%3A+primeira+oportunidade+dev;Dificuldade%3A+alta;Fraqueza%3A+portfolio+forte+%2B+pratica+diaria;Estrategia%3A+criar+projetos%2C+estudar+e+nao+desistir;Recompensa%3A+carreira+em+tecnologia)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -330,17 +190,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=700&color=00F5FF&center=true&vCenter=true&width=1000&lines=Codigo+e+como+um+jogo.;Cada+bug+e+um+boss.;Cada+projeto+e+uma+fase.;Cada+erro+e+XP.;Cada+evolucao+e+um+novo+level.)](https://git.io/typing-svg)
 
 </div>
-
-```txt
-╔══════════════════════════════════════════════════════╗
-║ CÓDIGO É COMO UM JOGO:                              ║
-║                                                      ║
-║ cada bug é um boss,                                  ║
-║ cada projeto é uma fase,                             ║
-║ cada erro é XP,                                      ║
-║ cada evolução é um novo level.                       ║
-╚══════════════════════════════════════════════════════╝
-```
 
 ---
 
@@ -365,16 +214,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1400&pause=600&color=00F5FF&center=true&vCenter=true&width=1000&lines=GAME+NOT+OVER...;NEXT+LEVEL+LOADING...;THANKS+FOR+VISITING+MY+ARCADE)](https://git.io/typing-svg)
 
 </div>
-
-```txt
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║             THANK YOU FOR PLAYING                   ║
-║                                                      ║
-║              MARLON3D DEV ARCADE                    ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
 
 <div align="center">
 
