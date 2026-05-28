@@ -155,9 +155,41 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marlon3d&show_icons=true&theme=radical&hide_border=true&title_color=00f5ff&icon_color=ff0055&text_color=ffffff&bg_color=0d1117"/>
+<a href="https://github.com/marlon3d">
+  <img src="https://img.shields.io/badge/GitHub-marlon3d-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon3d&layout=compact&theme=radical&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=0d1117"/>
+<img src="https://img.shields.io/badge/Status-Leveling_Up-ff0055?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Projetos-Em_Evolucao-00f5ff?style=for-the-badge&logo=github&logoColor=black" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/marlon3d">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marlon3d&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&icon_color=ff0055&cache_seconds=86400" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/marlon3d">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon3d&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&cache_seconds=86400" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1400&pause=500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=GitHub%3A+marlon3d;Projetos+publicos+em+evolucao;Estudando%2C+testando+e+subindo+de+level;Portfolio+em+constante+melhoria)](https://git.io/typing-svg)
 
 </div>
 
@@ -171,7 +203,18 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=marlon3d&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF0055&fire=FF0055&currStreakLabel=00F5FF"/>
+<a href="https://github.com/marlon3d">
+  <img src="https://streak-stats.demolab.com?user=marlon3d&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF0055&fire=FF0055&currStreakLabel=00F5FF" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Modo-Dev_Arcade-00f5ff?style=for-the-badge&logo=gnubash&logoColor=black" />
+<img src="https://img.shields.io/badge/XP-Code_%2B_Projects-ff0055?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
@@ -213,9 +256,15 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Player_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlon3d)
-[![Email](https://img.shields.io/badge/Email-Contato-00f5ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:marlonvieira359@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfolio-Em_Construcao-ff0055?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<a href="https://github.com/marlon3d">
+  <img src="https://img.shields.io/badge/GitHub-Player_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:marlonvieira359@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-00f5ff?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+
+<img src="https://img.shields.io/badge/Portfolio-Em_Construcao-ff0055?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
 
