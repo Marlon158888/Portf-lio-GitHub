@@ -1,48 +1,53 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Marlon
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f0c29,45:302b63,100:ff0055&text=MARLON%20DEV&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=35"/>
 
-### Desenvolvedor Web em evolução 🚀  
-Transformando ideias em sites, sistemas e projetos reais.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Full+Stack+em+forma%C3%A7%C3%A3o;Criando+sites%2C+sistemas+e+interfaces+modernas;Sempre+evoluindo+um+projeto+por+vez" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=950&lines=PLAYER+1+READY...;FULL+STACK+DEVELOPER+EM+EVOLU%C3%87%C3%83O;CRIANDO+SITES%2C+APPS+E+EXPERI%C3%8ANCIAS+WEB;HTML+%7C+CSS+%7C+JAVASCRIPT+%7C+PYTHON)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+<div align="center">
 
-Meu nome é **Marlon** e estou em evolução constante na área de **Desenvolvimento Web**.
+# 🎮 `SELECT YOUR PLAYER`
 
-Sou apaixonado por tecnologia, criação de sites, sistemas, interfaces modernas e projetos que realmente funcionam. Gosto de transformar ideias em algo visual, prático e útil para as pessoas.
+</div>
 
-Atualmente estou estudando e criando projetos próprios para evoluir como desenvolvedor e construir um portfólio cada vez mais forte.
-
----
-
-## 🚀 O que eu sou
-
-- 💻 Desenvolvedor Web em formação
-- 🎯 Focado em me tornar um Desenvolvedor Full Stack
-- 🔥 Criador de projetos próprios
-- 🧠 Sempre aprendendo novas tecnologias
-- 🎨 Gosto de interfaces modernas, bonitas e responsivas
-- ⚙️ Tenho interesse em sistemas com login, painel admin, banco de dados e funcionalidades reais
-
----
-
-## 🎯 O que eu quero ser
-
-Meu objetivo é me tornar um **Desenvolvedor Full Stack profissional**, capaz de criar sistemas completos, modernos e funcionais.
-
-Quero trabalhar com tecnologia, desenvolver projetos reais, resolver problemas e evoluir cada vez mais na programação.
-
-Acredito que com disciplina, prática e constância é possível crescer muito na área de tecnologia.
+```txt
+╔══════════════════════════════════════════════╗
+║              PLAYER PROFILE                 ║
+╠══════════════════════════════════════════════╣
+║ Nome: Marlon                                 ║
+║ Classe: Desenvolvedor Full Stack             ║
+║ Rank: Junior Developer em evolução           ║
+║ Estilo: Criativo, persistente e focado       ║
+║ Missão: Criar projetos reais e evoluir       ║
+╚══════════════════════════════════════════════╝
+```
 
 ---
 
-## 🛠️ Tecnologias que estudo e uso
+## 🕹️ Sobre mim
+
+Sou um desenvolvedor em evolução, apaixonado por tecnologia, criação de sites, sistemas e experiências digitais.
+
+Gosto de transformar ideias em projetos reais, com visual moderno, responsivo e funcional.  
+Meu foco é evoluir como desenvolvedor Full Stack, criando projetos cada vez mais completos, bonitos e úteis.
+
+```txt
+STATUS DO PLAYER
+
+Energia criativa     █████████░  90%
+Vontade de evoluir   ██████████  100%
+Front-end            ████████░░  80%
+Back-end             ██████░░░░  60%
+Projetos reais       ████████░░  80%
+```
+
+---
+
+## ⚔️ Skills do personagem
 
 <div align="center">
 
@@ -50,90 +55,180 @@ Acredito que com disciplina, prática e constância é possível crescer muito n
 
 </div>
 
-<br>
+```txt
+HTML        █████████░  90%
+CSS         ████████░░  80%
+JavaScript  ███████░░░  70%
+Python      ██████░░░░  60%
+Git/GitHub  ███████░░░  70%
+VS Code     ████████░░  80%
+```
+
+---
+
+## 🧩 Inventário de tecnologias
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ff0055?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-302b63?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00f5ff?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00f5ff)
+![Git](https://img.shields.io/badge/Git-ff0055?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+## 🏆 Projetos em destaque
 
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Git e GitHub
-- Desenvolvimento Front-end
-- Desenvolvimento Back-end
-- Banco de dados
-- APIs REST
-- Responsividade para celular e computador
-- Criação de sistemas completos
+### 🥇 EvoRank — Plataforma Web de Evolução Pessoal
 
----
+Sistema web com foco em hábitos, treinos, nutrição, comunidade, ranking, medalhas e evolução pessoal.
 
-## 📌 Projetos que estou desenvolvendo
-
-### 🏆 EvoRank  
-Plataforma web de evolução pessoal com hábitos, treinos, nutrição, ranking, medalhas, comunidade e gamificação.
-
-### 🍕 Sistema de Pizzaria  
-Projeto com cardápio, carrinho, área administrativa, status do pedido e sistema de entrega.
-
-### 🛒 Loja Online  
-E-commerce moderno com categorias, produtos, carrinho, design responsivo e experiência voltada para o usuário.
-
-### 💈 Sites para negócios locais  
-Criação de páginas modernas para barbearias, lojas, serviços e pequenos negócios.
+```txt
+╔════════════════════════════════════╗
+║ Projeto: EvoRank                   ║
+║ Tipo: Web App                      ║
+║ Status: Em desenvolvimento         ║
+║ Tema: Dark, futurista e gamificado ║
+║ Recursos: Ranking, medalhas, perfil║
+╚════════════════════════════════════╝
+```
 
 ---
 
-## 💡 Áreas que mais gosto
+### 🍕 Site de Pizzaria
 
-- Desenvolvimento Web
-- Criação de sites modernos
-- Sistemas com funcionalidades reais
-- Interfaces bonitas e responsivas
-- Projetos com animações e design diferenciado
-- Tecnologia, inovação e evolução pessoal
+Projeto de site comercial para pizzaria, com cardápio, carrinho, pedidos e painel administrativo.
+
+```txt
+╔════════════════════════════════════╗
+║ Projeto: Site de Pizzaria          ║
+║ Tipo: Site comercial               ║
+║ Status: Protótipo funcional        ║
+║ Recursos: Carrinho, pedidos, admin ║
+╚════════════════════════════════════╝
+```
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🛒 Loja Online
+
+Projeto de e-commerce moderno, responsivo e inspirado em grandes lojas digitais.
+
+```txt
+╔════════════════════════════════════╗
+║ Projeto: Loja Online               ║
+║ Tipo: E-commerce                   ║
+║ Status: Em evolução                ║
+║ Recursos: Produtos, carrinho, conta║
+╚════════════════════════════════════╝
+```
+
+---
+
+### 💈 Site para Barbearia
+
+Projeto de site para barbearia com visual moderno, apresentação de serviços e foco em atrair clientes.
+
+```txt
+╔════════════════════════════════════╗
+║ Projeto: Site de Barbearia         ║
+║ Tipo: Landing Page comercial       ║
+║ Status: Protótipo                  ║
+║ Recursos: Serviços, visual e CTA   ║
+╚════════════════════════════════════╝
+```
+
+---
+
+## 🎯 Missões atuais
+
+```txt
+[✓] Criar projetos reais para portfólio
+[✓] Melhorar design e responsividade
+[✓] Evoluir no Front-end
+[✓] Aprender mais JavaScript
+[✓] Praticar Python
+[ ] Conseguir primeira oportunidade como desenvolvedor
+[ ] Lançar um projeto próprio completo
+[ ] Evoluir para Full Stack profissional
+```
+
+---
+
+## 📊 Status do GitHub
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marlon158888&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon158888&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marlon1588888&show_icons=true&theme=radical&hide_border=true&title_color=00f5ff&icon_color=ff0055&text_color=ffffff&bg_color=0d1117"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon1588888&layout=compact&theme=radical&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=0d1117"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de contribuições
+## 🔥 Sequência de evolução
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Marlon158888&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=Marlon1588888&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF0055&fire=FF0055&currStreakLabel=00F5FF"/>
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🏅 Troféus desbloqueados
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marlon158888)
+<img src="https://github-profile-trophy.vercel.app/?username=Marlon1588888&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+## 🌌 Frase do player
+
+```txt
+╔══════════════════════════════════════════════╗
+║  CÓDIGO É COMO UM JOGO:                     ║
+║                                              ║
+║  cada bug é um boss,                         ║
+║  cada projeto é uma fase,                    ║
+║  cada erro é XP,                             ║
+║  cada evolução é um novo level.              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+## 🕹️ Modo Arcade
+
+```txt
+┌──────────────────────────────────────────────┐
+│              START GAME                      │
+├──────────────────────────────────────────────┤
+│  Player: Marlon                              │
+│  Class: Developer                            │
+│  Mission: Build, learn and evolve            │
+│  World: Web Development                      │
+│  Current objective: First dev opportunity    │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## 📡 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Player_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marlon1588888)
+[![Email](https://img.shields.io/badge/Email-Contato-00f5ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:marlonvieira359@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfolio-Em_Constru%C3%A7%C3%A3o-ff0055?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -141,6 +236,8 @@ Criação de páginas modernas para barbearias, lojas, serviços e pequenos neg�
 
 <div align="center">
 
-### “Disciplina, evolução e constância constroem o futuro.” ⚡
+### 🚀 `GAME NOT OVER... JUST LOADING THE NEXT LEVEL`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff0055,50:302b63,100:00f5ff&section=footer&animation=twinkling"/>
 
 </div>
